@@ -14,7 +14,7 @@ NK Codes💛 - Quote Generator
 
 Live Demo:
 
-    
+  https://nishap24.github.io/JS-Project-Day-11-Quote-Generator/  
     
 ## Getting Started
 
