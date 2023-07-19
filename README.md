@@ -39,6 +39,10 @@ To explore or modify the code, follow these steps:
 
 3. Tweet Functionality: Share your favorite quotes with the world using the integrated tweet button. With a single click, you can instantly share a quote along with the author's name on Twitter, spreading positivity and motivation to your followers. Amplify the impact of meaningful quotes by easily sharing them on social media.
 
+## Deployment Status
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/eb41ee6d-630d-4833-a886-a186915a1e98/deploy-status)](https://app.netlify.com/sites/kanasu-quote-generator/deploys)
+
 ## Contributing
 
 Contributions are always welcome!
